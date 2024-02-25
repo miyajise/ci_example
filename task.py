@@ -1,3 +1,3 @@
 
-    def my_func():
+def my_func():
         return "Hello World"
